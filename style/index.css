@@ -179,7 +179,7 @@ body {
 }
 
 .sections .description.panel.background1 {
-  background: #1e293b url("test1.jpg") 0% center / 122% auto no-repeat !important;
+  background: #1e293b url("../image/test1.jpg") 0% center / 122% auto no-repeat !important;
 }
 
 .sections .description.panel::before {

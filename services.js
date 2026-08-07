@@ -1,7 +1,7 @@
 const rows = Array.from(document.querySelectorAll(".service-row"));
 const featureCards = Array.from(document.querySelectorAll(".feature-card"));
 const spotlightImage = document.querySelector(".services-spotlight-media img");
-const spotlightSources = ["background1.png", "background4.png"];
+const spotlightSources = ["image/background1.png", "image/background4.png"];
 const scrollButtons = Array.from(document.querySelectorAll(".scroll-next-btn, .hero-cta"));
 const heroOverlayTargets = Array.from(document.querySelectorAll(".hero-overlay"));
 const revealTargets = Array.from(
